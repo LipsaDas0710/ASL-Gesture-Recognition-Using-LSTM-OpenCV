@@ -1,7 +1,7 @@
 # ASL-Gesture-Recognition-Using-LSTM-OpenCV
 This AI/ML-based project recognizes American Sign Language (ASL) gestures like "Hello", "Thank You", and "I Love You" in real time. It uses OpenCV for detecting hand and face gestures from live video and an LSTM-based neural network to understand gesture sequences. The model is trained on a video dataset of ASL gestures and converts recognized gestures into their textual meaning, offering a smooth and intuitive communication experience.
 
-#Features
+# Features
 Real-time detection of ASL signs: Hello, Thank You, I Love You
 
 Gesture recognition using webcam video
@@ -10,7 +10,7 @@ LSTM model trained on video sequences
 
 Text output for detected gestures
 
-#Technologies Used
+# Technologies Used
 Python
 
 OpenCV
@@ -19,7 +19,7 @@ TensorFlow / Keras (LSTM)
 
 NumPy
 
-#Use Cases
+# Use Cases
 Assistive tool for the hearing or speech impaired
 
 Educational ASL translator
