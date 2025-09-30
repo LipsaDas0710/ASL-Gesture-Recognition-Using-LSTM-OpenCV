@@ -26,5 +26,3 @@ Educational ASL translator
 
 Base model for future gesture-controlled systems
 
-
-# Features
