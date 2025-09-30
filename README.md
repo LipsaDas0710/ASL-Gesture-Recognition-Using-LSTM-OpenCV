@@ -25,3 +25,6 @@ Assistive tool for the hearing or speech impaired
 Educational ASL translator
 
 Base model for future gesture-controlled systems
+
+
+# Features
