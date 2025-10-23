@@ -1,10 +1,10 @@
-##🤟 Real-Time ASL Gesture Recognition (LSTM & OpenCV)
+## 🤟 Real-Time ASL Gesture Recognition (LSTM & OpenCV)
 
 An AI/ML-based system for recognizing American Sign Language (ASL) gestures from a live webcam feed.
 
 This project uses computer vision (OpenCV) to extract facial and hand landmarks, feeding these sequences into a deep learning model (LSTM) for real-time translation of non-verbal signs into text. It provides an initial, intuitive bridge for communication.
 
-##✨ Features
+## ✨ Features
 
 Real-time Recognition: Detects and translates common ASL signs: "Hello", "Thanks" (or "Thank You"), and "I Love You".
 Sequential Learning: Utilizes a Long Short-Term Memory (LSTM) neural network, essential for understanding the temporal dynamics of video-based gestures.
@@ -14,7 +14,7 @@ Model Accuracy: The current trained model achieves a strong baseline performance
 
 Text Output: Provides immediate textual meaning for detected gestures.
 
-##💻 Technologies Used
+## 💻 Technologies Used
 
 Technology
 
@@ -40,7 +40,7 @@ JupyterLab / Notebook
 
 Development environment for data processing and training.
 
-##💡 Use Cases
+## 💡 Use Cases
 
 Assistive Technology: A foundational tool to help the hearing or speech-impaired communicate simple phrases.
 
@@ -48,7 +48,7 @@ ASL Education: An interactive aid for students to practice and verify the accura
 
 Base for HRI: A starting point for developing advanced gesture-controlled systems and human-computer interaction (HCI) interfaces.
 
-##🖼️ Screenshots
+## 🖼️ Screenshots
 
 1. Real-time Landmark Detection
 
