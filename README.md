@@ -53,12 +53,15 @@ Base for HRI: A starting point for developing advanced gesture-controlled system
 1. Real-time Landmark Detection
 
 This image displays the live video feed where the system successfully detects and tracks facial landmarks. These dynamic coordinates are the key features used to train the LSTM model.
+![App Screenshot](./WhatsApp%20Image%202025-10-23%20at%2016.33.22_89650ad3.jpg)
 
 2. Data Pre-processing and Shape
 
 A snippet showing the data structuring phase, including the mapping of actions to numerical labels (hello, thanks, iloveyou) and confirming the input array shape ready for the deep learning model.
+![App Screenshot](./WhatsApp%20Image%202025-10-23%20at%2017.15.52_c24e6aba.jpg)
 
 3. Model Evaluation and Accuracy
 
 Final model output showing the confusion matrix and the calculated accuracy_score of 0.6705, confirming the model's performance on the validation set.
+![App Screenshot](./WhatsApp%20Image%202025-10-23%20at%2017.16.31_820e90f9.jpg)
 
