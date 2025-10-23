@@ -19,6 +19,9 @@ TensorFlow / Keras (LSTM)
 
 NumPy
 
+## 📸 Screenshot
+![Expense Tracker Screenshot]([assets/screenshot.png](https://github.com/LipsaDas0710/ASL-Gesture-Recognition-Using-LSTM-OpenCV/blob/main/WhatsApp%20Image%202025-10-23%20at%2017.15.52_c24e6aba.jpg)
+
 # Use Cases
 Assistive tool for the hearing or speech impaired
 
